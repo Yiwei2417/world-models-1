@@ -2,9 +2,11 @@
 This repo reproduces the [original implementation](https://github.com/hardmaru/WorldModelsExperiments) of [World Models](https://arxiv.org/abs/1803.10122). This implementation uses TensorFlow 2.2.
 
 ## Team member
-Jerry Lee                         jl11517.
-Meher Vandana Priyadarshini Meda  mm11580.
-Yiwei Zhang                       yz7303.
+Jerry Lee jl11517
+
+Meher Vandana Priyadarshini Meda  mm11580
+
+Yiwei Zhang yz7303
 
 ## Docker
 The easiest way to handle dependencies is with [Nvidia-Docker](https://github.com/NVIDIA/nvidia-docker). Follow the instructions below to generate and attach to the container.
