@@ -8,9 +8,13 @@ Meher Vandana Priyadarshini Meda  (mm11580)
 
 Yiwei Zhang (yz7303)
 
+## Reports
+
+The report is divided into each part and included in this repo.
+
 ## AWS Instacne
 
-The following command should be done in a AWS EC2 instance
+The following command should be done in a AWS EC2 instance.
 
 ## Docker
 Follow the instructions below to generate and attach to the container.
